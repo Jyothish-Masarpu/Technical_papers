@@ -1,6 +1,6 @@
 # SQL Concepts – Technical Paper
 
-This folder contains ten separate Markdown papers written in simple English. Each topic includes a short explanation, practical examples, and a conclusion.
+This folder contains ten separate Markdown papers. Each topic includes a short explanation, practical examples, and a conclusion.
 
 ## Topics
 
